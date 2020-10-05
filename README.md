@@ -1,6 +1,18 @@
-# onboarding
+# Onboarding
 
-onboarding implementation tutorial
+Experimenting with the Flutter Animation API using AnimationController and Animation<T> class to create an onboarding experience.
+  
+<p float="left">
+  <img src="screenshots/onboarding-1.png" width="200" />
+  <img src="screenshots/onboarding-2.png" width="200" /> 
+  <img src="screenshots/onboarding-3.png" width="200" />
+  <img src="screenshots/login-page.png" width="200" />
+</p>
+
+  
+### Credit
+
+This project was mainly guided by [this](https://uxdesign.cc/flutter-design-challenge-onboarding-concept-1f5774d55646) write up. 
 
 ## Getting Started
 
