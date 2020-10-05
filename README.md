@@ -2,6 +2,10 @@
 
 Experimenting with the Flutter Animation API using AnimationController and Animation<T> class to create an onboarding experience.
   
+<img src="screenshots/onboarding-concept.gif" alt="Onboarding Concept" width="600">
+
+The individual components are shown below. The first 3 screens are made up of reusable widgets.
+
 <p style="text-align:center">
   <img src="screenshots/onboarding-1.png" width="200" />
   <img src="screenshots/onboarding-2.png" width="200" /> 
