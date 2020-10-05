@@ -2,7 +2,7 @@
 
 Experimenting with the Flutter Animation API using AnimationController and Animation<T> class to create an onboarding experience.
   
-<p float="left">
+<p style="text-align:center">
   <img src="screenshots/onboarding-1.png" width="200" />
   <img src="screenshots/onboarding-2.png" width="200" /> 
   <img src="screenshots/onboarding-3.png" width="200" />
